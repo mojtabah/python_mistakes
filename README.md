@@ -5,7 +5,6 @@ All the sample scripts and examples will be stored in this repositary.
 1- pandas vs ..
 import pandas to work with data sets.
 got it?
-
 2- profiling with line_profiler
 
  
